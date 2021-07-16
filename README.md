@@ -2,8 +2,6 @@
 
 I am Slavo and I have a strong passion for building sustainable software as well as building high-functioning engineering teams, ideally at the same time.
 
-As my name suggests, I'm originally from Slovakia 🇸🇰 but have been living and working (mostly) in London 🇬🇧 for nearly a decade now.
-
 <!--
 **slavovojacek/slavovojacek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
