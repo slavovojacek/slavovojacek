@@ -2,7 +2,7 @@
 
 I am Slavo and I have a strong passion for **building sustainable software as well as building high-functioning engineering teams**, ideally at the same time.
 
-Throughout my career, I have worked on a variety of projects across different industries (ad-tech, marketplaces, logistics, ...), but since around 2017 I have been involved almost exclusively in fin-tech 💸.
+Throughout my career, I have worked on a variety of projects across different industries (ad-tech, marketplaces, logistics, ...), but since around 2017 I have been involved predominantly in fin-tech 💸.
 
 As part of [McKinsey Digital](https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients), I have been helping clients in Europe, the Middle East, and Southeast Asia build and successfully launch digital banks. Consequently, I have become somewhat of an expert in **modern cloud-native banking, payments and settlement systems**.
 
