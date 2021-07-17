@@ -12,7 +12,7 @@ Beyond my passion for green ♻️ (cost and resource effective) software, scala
 
 I am a huge open-source software proponent and in my spare time I author and contribute to a number of open-source projects.
 
-Recently, I published [gRPC on Node.js with Buf and TypeScript](https://slavovojacek.medium.com/grpc-on-node-js-with-buf-and-typescript-part-1-5aad61bab03b) and I am hoping to publish more content in the coming months.
+Recently, I published [gRPC on Node.js with Buf and TypeScript](https://slavovojacek.medium.com/grpc-on-node-js-with-buf-and-typescript-part-1-5aad61bab03b) and I am hoping to publish more content in coming months.
 
 As my name suggests, I'm originally from Slovakia 🇸🇰 but have been living and working (mostly) in London 🇬🇧 for nearly a decade now.
 
