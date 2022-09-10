@@ -1,21 +1,11 @@
 ### Hi there 👋
 
-**I am Slavo and I have a strong passion for building sustainable software as well as building high-functioning engineering teams, ideally at the same time.**
+I am Slavo and I specialise in building sustainable software and high-functioning engineering teams that help organisations realise the full potential of modern technology.
 
-***
+As part of McKinsey Digital, I have been helping clients in Europe, the Middle East, and Southeast Asia build and successfully launch digital businesses at scale.
 
-Throughout my career, I have worked on a variety of projects across different industries (ad-tech, marketplaces, logistics, ...), but since around 2017 I have been involved predominantly in fin-tech.
+I am a huge open-source software proponent and in my spare time I author and contribute to a number of open-source projects.
 
-As part of [McKinsey Digital](https://www.mckinsey.com/business-functions/mckinsey-digital/how-we-help-clients), I have been helping clients in Europe, the Middle East, and Southeast Asia build and successfully launch digital banks. Consequently, I have become somewhat of an expert in **modern cloud-native banking, payments and settlement systems**.
-
-Beyond my passion for green ♻️ (cost and resource effective) software, scalable and resilient 💪 cloud-native architectures, and overall systems security 🔐, I also very much enjoy **building digital talent and culture**.
-
-<!-- I am a huge **open-source** software proponent and in my spare time I author and contribute to a number of open-source projects.  -->
-
-I am a core member at [Sniptt](https://github.com/sniptt-official), where I try to make useful tools for fellow engineers as well as the general public.
-
-Recently, I published [gRPC on Node.js with Buf and TypeScript](https://slavovojacek.medium.com/grpc-on-node-js-with-buf-and-typescript-part-1-5aad61bab03b) and I am hoping to publish more content in coming months.
-
-As my name suggests I am originally from Slovakia 🇸🇰, but have been living and working (mostly) in London 🇬🇧 for nearly a decade now.
+As my name suggests I am originally from Slovakia 🇸🇰, but have been living in London 🇬🇧 for nearly a decade now.
 
 I love playing tennis 🎾.
