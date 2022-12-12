@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, my name is Slavo and I'm a software engineer with a passion for building innovative solutions to help solve complex and meaningful challenges.
 
-I am Slavo and I specialise in building sustainable software and high-functioning engineering teams that help organisations realise the full potential of modern technology.
+I have over a decade of hands-on experience in the field, and have worked on a variety of projects including real-time delivery tracking, marketplaces, cloud-native banking, robo-advisory for wealth management applications, and more.
 
-As part of McKinsey Digital, I have been helping clients in Europe, the Middle East, and Southeast Asia build and successfully launch digital businesses at scale.
+In my free time, I like to ✍️ articles, contribute to open-source projects, and build [tools that other engineers can use](https://github.com/sniptt-official/ots).
 
-I am a huge open-source software proponent and in my spare time I author and contribute to a number of open-source projects.
+Recently, I have been involved in transforming the [McKinsey Digital blog](https://medium.com/@mckinseydigital) to become a place for practitioners to publish deeply technical content with minimal effort.
 
-As my name suggests I am originally from Slovakia 🇸🇰, but have been living in London 🇬🇧 for nearly a decade now.
+👋
