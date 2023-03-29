@@ -1,9 +1,3 @@
-### Hi, my name is Slavo and I'm a software engineer with a passion for solving complex and meaningful challenges.
+# 👋 Hello, world!
 
-I have over a decade of hands-on experience, and have worked on a variety of projects including real-time delivery tracking, marketplaces, cloud-native banking, robo-advisory for wealth management applications, and more.
-
-In my free time, I like to write articles, contribute to open-source projects, and build [tools that other engineers can use](https://github.com/sniptt-official/ots).
-
-Recently, I have been involved in transforming the [McKinsey Digital blog](https://medium.com/@mckinseydigital) to become a place for practitioners to publish deeply technical content with minimal effort.
-
-👋
+I specialise in building and scaling world-class engineering teams and culture while driving innovation in distributed systems and microservice architectures.
